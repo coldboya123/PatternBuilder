@@ -36,7 +36,7 @@ public class FastFood {
         return water;
     }
 
-    public class BuilderFastFood implements Builder{
+    public static class BuilderFastFood implements Builder{
 
         private Hamburger hamburger;
         private Salad salad;
